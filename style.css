@@ -14,17 +14,14 @@ html{
   width: 100%;
 }
 
-#myCanvas1 {
-  border: 1px solid black;
-  background-image: url("supermarket-interior-shelf_165488-3982.avif");
+
+
+#myCanvas2 { background-image: url("https://ethnasia.com/cdn/shop/articles/sean-o-KMn4VEeEPR8-unsplash_edited.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-}
-
-#myCanvas2 {
-  border: 1px solid black;
   border-radius: 30px;
+
 }
 
 

@@ -24,6 +24,15 @@ draw = function(){
    }
 
   display();
+
+
+//for Loop
+
+//while Loop
+
+//Array
+
+
 }
 
 
